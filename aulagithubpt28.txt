@@ -1,3 +1,7 @@
 Primeiro acesso ao github
 
 alteração do meu arquivo
+
+git init (Inicia repo)
+git add . (Adiciona alterações)
+git commit -m 
